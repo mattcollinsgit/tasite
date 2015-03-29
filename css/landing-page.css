@@ -308,3 +308,7 @@ p.copyright {
     width: 100vw;
     padding-left: -20px;
 }
+
+.GalleryHeader {
+    text-align: center;
+}
