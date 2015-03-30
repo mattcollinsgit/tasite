@@ -16,7 +16,7 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 	
 // create email body and send it	
-$to = 'matt@roramedia.com'; // PUT YOUR EMAIL ADDRESS HERE
+$to = 'allansculpt@yahoo.com'; // PUT YOUR EMAIL ADDRESS HERE
 $email_subject = "A Email from someone visiting your Website:  $name"; // EDIT THE EMAIL SUBJECT LINE HERE
 $email_body = "You have received a new message from your website's contact form.\n\n"."Here are the details:\n\nName: $name\n\nPhone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
 $headers = "From: noreply@your-domain.com\n";
