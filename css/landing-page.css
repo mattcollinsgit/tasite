@@ -120,7 +120,7 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background: url(../img/white_wall.png);
 }
 
 .content-section-b {
@@ -189,7 +189,7 @@ h6 {
 
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background: url(../img/white_wall.png);
 }
 
 p.copyright {
@@ -265,7 +265,7 @@ p.copyright {
 .content-section-a-about {
     padding-top: 30px;
     padding-bottom: 50px;
-    background-color: #f8f8f8;
+    background: url(../img/white_wall.png);
 }
 
 .section-heading-about {
@@ -300,7 +300,7 @@ p.copyright {
 .content-section-a-pub {
     padding-top: 30px;
     padding-bottom: 50px;
-    background-color: #f8f8f8;
+    background: url(../img/white_wall.png);
 }
 
 /*-----------------------------------------------------------------------------------------------*/
