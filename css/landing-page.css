@@ -312,7 +312,7 @@ p.copyright {
 /*-----------------------------------------------------------------------------------------------*/
 /*portfolio section*/
 .page-header-gallery {
-    padding-top:20px;
+    padding-top:50px;
     padding-bottom: 30px;
     margin: 40px 0 20px;
     text-align: center;
@@ -320,7 +320,6 @@ p.copyright {
 
 
 #blogpage {
-    
     height: 80vh;
     width: 100vw;
     padding-left: -20px;
