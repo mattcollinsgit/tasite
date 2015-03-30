@@ -5,6 +5,7 @@
  */
 
 @import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700);
+@import url(http://fonts.googleapis.com/css?family=Revalia);
 
 body,
 html {
@@ -318,3 +319,13 @@ p.copyright {
 .GalleryHeader {
     text-align: center;
 }
+
+#quote {
+    letter-spacing: 0.07em;
+    text-align: center;
+}
+
+#quotemarks {
+   
+    color: #eee;
+    font-family: 'Revalia', cursive;}
