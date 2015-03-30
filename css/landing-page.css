@@ -188,6 +188,7 @@ h6 {
 }
 
 footer {
+    bottom:0;
     padding: 50px 0;
     background: url(../img/white_wall.png);
 }
@@ -312,7 +313,7 @@ p.copyright {
 /*-----------------------------------------------------------------------------------------------*/
 /*portfolio section*/
 .page-header-gallery {
-    padding-top:50px;
+    padding-top:20px;
     padding-bottom: 30px;
     margin: 40px 0 20px;
     text-align: center;
@@ -320,6 +321,7 @@ p.copyright {
 
 
 #blogpage {
+    
     height: 80vh;
     width: 100vw;
     padding-left: -20px;
